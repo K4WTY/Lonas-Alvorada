@@ -1,0 +1,27 @@
+.a-edit {
+    font-size: 25px;
+    padding: 0 0.4rem;
+}
+
+.fix-image {
+    object-fit: contain;
+}
+
+i {
+    color: #fff !important;
+}
+
+.div-aspas {
+    width: 3rem;
+    height: 3rem;
+    background-color: #E5383B;
+}
+
+.p-red {
+    color: #BA181B;
+    font-weight: bold;
+}
+
+textarea {
+    resize: none;
+}

@@ -1,0 +1,24 @@
+form input {
+    width: 20rem;
+    height: 3rem;
+    padding-left: 0.4rem;
+}
+
+form input:focus {
+    outline: 0;
+}
+
+form button {
+    background-color: #E5383B;
+    color: white;
+    width: 8rem;
+    height: 3rem;
+}
+
+@media (max-width: 320px) {
+    form input {
+        width: 15rem;
+        height: 3rem;
+        padding-left: 0.4rem;
+    }
+}

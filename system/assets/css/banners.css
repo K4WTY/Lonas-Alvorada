@@ -1,0 +1,128 @@
+.a-edit {
+    font-size: 25px;
+    padding: 0 0.4rem;
+}
+
+.row-seguimentos .col div {
+    font-family: "Poppins";
+    height: 20rem !important;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+}
+
+.row-seguimentos-2 .col div {
+    font-family: "Poppins";
+    height: 10rem !important;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+}
+
+.row-seguimentos .col div h2 {
+    margin-left: 1rem;
+}
+
+.agronegocios-div {
+    background-image: url("../imgs/trator.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.arquitetura-div {
+    background-image: url("../imgs/casa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.comunicacao-div {
+    background-image: url("../imgs/caminhao.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.moda-div {
+    background-image: url("../imgs/bolsa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.tenda-div {
+    background-image: url("../imgs/tenda.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.transporte-div {
+    background-image: url("../imgs/giz.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.projeto-div {
+    background-image: url("../imgs/lona.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.equipamentos-div {
+    background-image: url("../imgs/resrot.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.costura-div {
+    background-image: url("../imgs/resrot.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.loja-div {
+    background-image: url("../imgs/piscina.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.sobre-div {
+    background-image: url("../imgs/alvorada-local.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.costura-2-div {
+    background-image: url("../imgs/costura.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.lonas-div {
+    background-image: url("../imgs/lonas.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.solda-div {
+    background-image: url("../imgs/solda.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+div {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    object-fit: cover !important;
+}

@@ -1,0 +1,16 @@
+.a-edit {
+    font-size: 30px;
+    padding: 0 0.4rem;
+}
+
+.fix-image {
+    object-fit: contain;
+}
+
+i {
+    color: #fff !important;
+}
+
+textarea {
+    resize: none;
+}
